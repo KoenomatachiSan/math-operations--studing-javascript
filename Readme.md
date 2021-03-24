@@ -12,3 +12,4 @@ The java script allows:
 * Subtraction
 * Division
 * Multiplication
+* And more!
